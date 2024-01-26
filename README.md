@@ -1,7 +1,7 @@
 <div >
     <div >
       <div>
-       <img src="photo_finale/1.PNG" alt="" width="auto" height="450">
+       ![image 1](photo%20finale/1.PNG)
       </div>
       <br><center>********************</center><br>
       <div >
