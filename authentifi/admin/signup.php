@@ -116,7 +116,7 @@ if($msg)
 
 
         
-         <h1><p style="margin-top:70px;text-shadow: 2px 2px 5px red;" class="fst-italic">Tous l'évènement</p></h1><br>
+         <h1><p style="margin-top:70px;text-shadow: 2px 2px 5px red;" class="fst-italic">Ajouter un nouveau utilisateur</p></h1><br>
          <div class="row">
            <div class="col-md-6 offset-md-3 text-center bg-warning">
        <a href="chercher1.php">chercher</a></div>

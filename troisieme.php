@@ -39,7 +39,7 @@ exit();
 <body >
 <form method="post"><div class="container">
 
-<table class="table table-bordered border-dark" style="margin-top:70px">
+<table class="table table-bordered border-dark bg-danger" style="margin-top:70px">
   <tr><td>
     <div class="row">
         <div class="col-sm-12 text-center " style="color:black" > <h1 style="text-shadow: 3px 3px 6px green;"><i class="fab fa-earlybirds"></i> Géstion d'évènement</h1></div>
@@ -49,7 +49,7 @@ exit();
         <div class="card">
   <div class="card-body">
   <div class="form-group">
-    <h2> Page de connexion </h2><p>
+    <h2> Page de connexion Administrateur</h2><p>
  <h4> Vous êtes déconnecté. </p></h4><br>
   <label for="usr">Utilisateur : <i class="fas fa-user-secret"></i></label>
 <input  name="username" type="text" placeholder="Username"  class="form-control" />

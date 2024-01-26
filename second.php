@@ -37,7 +37,7 @@ echo "<script>alert('Invalid username or password');</script>";
 <body >
 <form method="post"><div class="container">
 
-<table class="table table-bordered border-dark" style="margin-top:70px">
+<table class="table table-bordered border-dark bg-success" style="margin-top:70px">
   <tr><td>
 
     <div class="row">
@@ -65,7 +65,7 @@ echo "<script>alert('Invalid username or password');</script>";
         </div>
         
         </div>
-        <div class="col-2"><a href="index.php">RETOUR</a></div>
+        <div class="col-2 "><a href="index.php">RETOUR</a></div>
         <div class="col-sm-12 text-center" style="color:black">2022-2027</div>
     </div>
 </div></td>

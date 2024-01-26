@@ -60,7 +60,7 @@ if (strlen($_SESSION['adminid']==0)) {
     <br>
    <p  class="fst-italic"> Sous titre </p><input  class="fst-italic"type="text" name="soustitre">
     <br>
-    <p  class="fst-italic"> Commentaire (s 'il vous plait met à la ligne a chaque fois que le colone est remplie) </p><textarea  name="commentaire" cols="65px" rows="10"></textarea>
+    <p  class="fst-italic"> Commentaire </p><textarea  name="commentaire" cols="65px" rows="10"></textarea>
     <br>
    <p  class="fst-italic"> Photo </p><input type="file" name="photo"><br><br>
    <button type="reset" class="btn btn-danger"  class="fst-italic">EFFACER TOUS</button>
