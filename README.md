@@ -5,11 +5,11 @@
       </div>
       <br><center>********************</center><br>
       <div >
-        <img src="photo_finale/2.PNG" alt=""  width="950" height="150">
+        <img src="photo%finale/2.PNG" alt=""  width="950" height="150">
       </div>
       <br><center>********************</center><br>
       <div>
-        <img src="photo_finale/3.PNG" alt=""  width="auto" height="450">
+        <img src="./photo%finale/3.PNG" alt=""  width="auto" height="450">
       </div>
       <br><center>********************</center><br>
       <div>
